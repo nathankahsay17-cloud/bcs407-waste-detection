@@ -1,4 +1,4 @@
-# AI-Based smart campus detection system for campus sustainability monitoring
+# AI-based smart waste detection system for campus sustainability
 
 This repository contains the code and supporting result files for the BCS407 AI project.
 
