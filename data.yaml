@@ -1,0 +1,10 @@
+path: /content/waste_detection
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: cardboard
+  1: Metal
+  2: paper
+  3: plastic
