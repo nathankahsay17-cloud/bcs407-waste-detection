@@ -55,8 +55,7 @@ The following official experiments were conducted:
 
 The dataset and trained model files are hosted externally due to file size limits.
 
-- **Dataset link:** https://drive.google.com/drive/folders/1KM5PWC0Mcpt3G7bqdWoyNpOEuxe37t08?us
-p=sharing
+- **Dataset link:** https://drive.google.com/drive/folders/1KM5PWC0Mcpt3G7bqdWoyNpOEuxe37t08?usp=sharing
 
 
 ## How Labeling Was Done
