@@ -1,0 +1,5 @@
+run_name,strategy,model,dataset,epochs,imgsz,batch,seed,precision,recall,map50,map50_95,notes
+baseline,project1_yolov8n,yolov8n,dataset_v1,50,640,16,42,0.8480,0.7855,0.8686,0.7230,Project 1 baseline
+exp1,model_upgrade,yolov8m,dataset_v1,50,640,16,42,0.8159,0.8070,0.8675,0.7309,Improved strict metric with larger model
+exp2,dataset_expansion,yolov8n,dataset_v3,50,640,16,42,0.8390,0.7948,0.8857,0.7392,Best overall run after adding more paper and cardboard images
+final,combined_dataset_plus_model,yolov8m,dataset_v3,50,640,8,42,0.7642,0.8431,0.8640,0.7337,Best recall but lower precision after combining model upgrade with dataset expansion
